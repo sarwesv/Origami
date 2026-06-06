@@ -1,6 +1,7 @@
 import React, { useRef, useMemo } from 'react';
 import * as THREE from 'three';
-import { NINJA_STAR, SWAN, FaceData } from '../../data/models';
+import { NINJA_STAR, SWAN } from "../../data/models";
+import type { FaceData } from '../../data/models';
 import { useFoldAnimation } from '../../hooks/useFoldAnimation';
 
 interface PaperModelProps {

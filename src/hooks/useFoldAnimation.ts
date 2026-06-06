@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import * as THREE from 'three';
 import gsap from 'gsap';
-import { OrigamiModel } from '../data/models';
+import type { OrigamiModel } from '../data/models';
 
 export const useFoldAnimation = (
   model: OrigamiModel,
