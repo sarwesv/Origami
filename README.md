@@ -2,7 +2,6 @@
 
 An interactive, artistic 3D web application for visualizing origami folds. Built with **React**, **Three.js (React Three Fiber)**, and **GSAP**.
 
-![Origami Demo](public/favicon.svg) <!-- Replace with a real demo image/gif later -->
 
 ## 🌟 Features
 
